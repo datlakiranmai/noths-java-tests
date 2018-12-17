@@ -1,0 +1,1657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf85d7f8-d422-4e12-a0df-2f7b11934739" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/bin/allure" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/bin/allure.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/config/allure-cucumber.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/config/allure-junit.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/config/allure.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/lib/allure-commandline-2.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/lib/allure-generator-2.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/lib/allure-plugin-api-2.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/lib/allure1-model-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/lib/allure2-model-api-1.0-BETA4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/lib/allure2-model-jackson-1.0-BETA4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/lib/allure2-model-pojo-1.0-BETA4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/lib/asm-5.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/lib/asm-analysis-5.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/lib/asm-tree-5.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/lib/asm-util-5.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/lib/commons-io-2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/lib/config/jetty-logging.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/lib/config/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/lib/freemarker-2.3.23.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/lib/jackson-annotations-2.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/lib/jackson-core-2.8.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/lib/jackson-databind-2.8.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/lib/jackson-dataformat-yaml-2.8.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/lib/jackson-module-jaxb-annotations-2.8.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/lib/javax.servlet-api-3.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/lib/jaxb-utils-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/lib/jcommander-1.64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/lib/jetty-http-9.2.2.v20140723.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/lib/jetty-io-9.2.2.v20140723.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/lib/jetty-server-9.2.2.v20140723.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/lib/jetty-util-9.2.2.v20140723.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/lib/parboiled-core-1.1.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/lib/parboiled-java-1.1.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/lib/pegdown-1.6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/lib/properties-2.0.RC5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/lib/slf4j-api-1.7.21.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/lib/slf4j-log4j12-1.7.21.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/lib/snakeyaml-1.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/lib/tika-core-1.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/plugins/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/plugins/behaviors-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/plugins/behaviors-plugin/plugin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/plugins/behaviors-plugin/static/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/plugins/custom-logo-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/plugins/custom-logo-plugin/static/custom-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/plugins/custom-logo-plugin/static/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/plugins/junit-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/plugins/junit-plugin/junit-plugin-2.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/plugins/junit-plugin/lib/doxia-sink-api-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/plugins/junit-plugin/lib/maven-reporting-api-3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/plugins/junit-plugin/lib/surefire-report-parser-2.19.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/plugins/packages-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/plugins/packages-plugin/plugin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/plugins/packages-plugin/static/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/plugins/screen-diff-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/plugins/screen-diff-plugin/static/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.0.1/plugins/screen-diff-plugin/static/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_saucelabs_saucerest_1_0_39.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_14_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_core_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_expressions_6_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_html_0_2_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_java8_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_java_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_jvm_deps_1_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_testng_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_datatable_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_datatable_dependencies_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_gherkin_5_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_tag_expressions_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure2_model_api_1_0_BETA6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure2_model_jackson_1_0_BETA6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure2_model_pojo_1_0_BETA6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure_java_commons_2_0_BETA3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure_testng_2_0_BETA3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_jodah_typetools_0_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tika_tika_core_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20171018.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_7_0_0_beta1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kiran_Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/00c726ff-d787-44e9-9b53-89c52cf64493-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/00e72437-b76e-4058-894a-f44d00deb22f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/014fa4bc-2029-4a2d-9b35-19be205f79f8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/02499a68-d0dd-4aba-a2ee-77a61f4dc069-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/037a6cf1-b92d-4899-bc88-9c2eafc2d900-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/04b02410-3f4b-4e9b-96ca-18c4da972846-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0591c861-9bd4-4545-88a4-7bf59c5c141d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/077775ae-87e9-4316-b60a-f72b6c7984ae-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/07a1a466-46af-4949-9c07-f269c42c2a91-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/08393d3e-1430-4a75-8f06-e9489131c459-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/087d9457-35b7-493d-a888-e72e9dcd29e0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/092273c8-8222-4093-b641-11f885b972bc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/09d8d253-4bde-40c3-8775-c4967ab5f252-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0e002887-0e7b-4a48-90bb-3ece9e685d47-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0e10c8ae-6b85-4abe-9c0f-5dcff978ea2f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0fc721c8-9959-4552-889c-06ee8fc9634e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1087e56d-13dd-4228-bbef-c0c09f363fdb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/10891030-5bc9-4c51-9ee6-9209aa6a7539-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/118ed97c-1f3d-4e64-979b-e15b2e2f3037-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1192eb95-e7ab-4a82-a5b7-d4c5df20a8aa-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/136ad333-bb85-4f0e-9135-ff4cf05f643b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/137198b8-05c2-468d-bf32-b15a2e4ad54e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/14ae806d-60be-4e23-a23f-6b56e0ed4ecb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/15451b4d-7360-410b-b633-c657b6f59b93-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/168fd987-2cc9-43e9-aa45-79e7b6add745-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/16dea0d7-feaa-4ed9-b0d8-9fbd391a753e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/16f672be-1245-4a6a-8851-0bcb6809bbd3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/17363353-75cd-4062-9106-bc114a40b292-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/17c60d8c-421d-444f-a9d4-775477634f23-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/18371bc6-b450-46cc-a3f5-97fa342f7b85-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/18f55817-0cdf-42fd-85a2-cb4711562ad7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1960ba70-6ea8-4328-a942-69127e91dd92-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1977886b-dff9-4afb-a7d9-aabec09609ac-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/19a63720-03d9-4535-8ae6-b610b08255ca-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1a56d460-8128-42aa-96bd-dfa8c9e6b3eb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1a6ec93a-279e-4cf1-a29d-e7ffade4d707-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1a7fe43f-0098-4f21-9548-13ef329f11c7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1ae4b48e-fd32-433a-8c2f-56b06c6ff857-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/20f89d4f-ffce-412e-bb01-5c8ef1ff4493-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/22b539a8-43e5-4463-a70e-e8932aaf85ce-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/23468877-ebb5-46de-94e1-1b913b64d309-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/25139e7a-f751-44d0-83a2-af54147a315d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/25810839-ad67-49a0-97b4-906a8f30b5c4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/25cd022a-91ac-4583-996e-89ddc23789fb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/260594ae-7017-4c6d-9a53-0d7c0dcaff06-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/278e7ddc-8def-430f-a155-518dde1fb8ba-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/282d873b-c91d-4163-94a0-a4305d3302b3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/29753e99-708d-4475-addc-f1390db572eb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/29a657e4-71db-4a4a-94be-ffa80b78ec83-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/29b3c30a-de67-458c-b75f-a769927e1a0a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/29ea54e0-d03a-45ac-9b7a-9349430fec49-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2a0024f4-3abe-4e47-824e-e9aa7ff950fe-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2a38017c-25f9-4e1a-8bd0-e8c9b5c20a99-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2b021f83-caeb-4f4f-8ff2-dd9af57c507a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2b34a544-5676-4136-9731-e484f2828ed3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2c3572b4-da9c-4cca-b4bd-319b04c46514-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2cdab90d-8c60-4894-a440-44de0a39e757-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2d3ffadb-77b6-42ac-9681-607e13d799a1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2dbdb8b5-536f-4da6-8288-1f5fd3b77739-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2fce31d4-7a29-46ed-90c6-a0615a43794d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/309b3db7-f872-4989-aafa-76443bceccd6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/31429fed-0972-407c-a0b8-2df0d5d1027e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/31ef6bf3-101c-4f7c-bf2c-2e656bc613a5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/325d74d9-f631-4191-b905-5bffc7e4d5f6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/328043a3-5901-4380-a757-ec568317f8ec-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3357dc19-2ada-4b04-a6eb-657a25857f09-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/33eb35df-362e-4e26-96a7-39c98055030a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3570a44c-77e7-49bf-80c2-c884746c8336-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/36202259-f86d-46e4-9a96-63ce228296f9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/372744ab-c8da-4274-bb3f-b36b0e840f9d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/38d6c667-3f7a-4385-b60a-d82ed105e275-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3a1ad0a6-6c44-4295-8868-d1cdee422831-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3a284944-d831-4c0a-a86b-26d5b99b949a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3a6fe6a9-67cb-4776-b1a6-193ecde305ec-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3c746a8c-fb1b-4ac0-8441-1a900f04ce4c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3cd19ab9-411e-45cd-8cb9-784f4bf2be8f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3dbd9502-eba1-4911-847e-fe6f09ad4c94-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3de7513d-4c12-4811-9df5-9102edd2d631-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3f17caa0-91ec-4ade-9bc2-2b7ceec61165-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3f58c2e6-4de3-453c-a308-040ca9e3593c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3f8db48c-0514-4921-97d0-59ccfd570216-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/41218281-ee44-4b64-b2b3-8bd098e6dd2b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/427fe118-3a15-4a72-81f8-154ec0b2a2c3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/429bfc5c-2edf-48ce-9457-55e264c281ed-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/433fe489-ea46-4733-9394-5ba8d3020aa9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/44aeb2af-7713-4810-a031-62557c9dcc1f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/45a5b707-9154-4e9d-a095-d2f610e801ea-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4672e24b-870a-44ac-bb2f-ac446ac1dca1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4c118bdb-4851-47bc-8719-1e5d33788056-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4c85ec97-8138-4d16-932c-0899643fe77a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4cfa1464-a572-4d5c-8c4a-4059800f26f4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4ee08ea4-8cc1-4659-a10c-8d16a6432e88-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4f6c2e16-6133-40a7-a5d7-c68b33f23d8a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4f81b97a-775e-4b52-82ec-f9dffad5ba04-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/50aeea30-5a22-4238-ad83-655d6d15e8cc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/542a568c-d2b3-4a7a-a68f-1b32ed600ae5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/57a5f807-c312-4db9-b0d4-77eb21c9471f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/58370c37-4803-49f7-b133-1b6474933186-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/591182c8-9ebc-4ef9-8d44-faca5be582ce-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/59796e2e-17a6-4d14-9039-276b7bbd67a7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5aa3986c-b3e4-42d6-90ff-598370531bb8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5ccc9d48-b311-4b2e-8d01-5e0af459628f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5d86913b-6a1d-46d1-9697-0b1a1020c628-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5e049c88-b1ab-43eb-ab0a-89cce274a6d5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5e9122a0-9523-4a5c-8806-9c922afd6443-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5ece92d1-88be-416c-a375-ec12eb038cb2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5fd9d09d-0a31-4954-a4d7-a9cfcbc4d95d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/607a9971-9b26-438c-8c60-5147356fd6e0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/61ef4a66-83a1-4eb7-b2f5-10dddc0f7b58-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/62d28c87-7b61-443e-8dcc-e52b6da3be86-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/66c672f1-0e0d-4aee-b2f8-9d04f174f755-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/66d0fe0e-42f7-4560-a08b-da333c19c8fc-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/67fd7ee8-493d-4055-bfb5-af28ff30bfaf-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6bb76ea1-6d51-4b3b-aeb3-d11c333fc1d4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6bf45958-eaa3-495f-b758-e20a4a8ff04c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6c05b898-fa9e-45c7-8ae1-22d9ba6ffb86-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6d9a013c-532d-4cd2-a1e5-23e717806864-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6e937b76-c3ae-41b1-be61-e187bdc972b4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6ee51a50-22f5-4887-9068-bcf27cd1790b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7088a2a2-a4f1-4c63-a666-3de39e6887fc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7099b5da-d1d5-4dd3-b9ae-3287e4f05fe0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/70e76b68-e260-4e94-a8a2-81f33032b814-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/712403cc-40da-40b6-bce8-3061cf0b44aa-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/72901089-8d27-4ba4-8ddc-1a6c286b5e37-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7492896b-5c69-466f-af1e-8d814d212f00-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/74f498f9-3c62-4f71-858e-c68e34c289b2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/766b0763-f969-4f1d-b756-b7fe2da02a23-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7684421c-209a-456b-9f5e-99ca0609a088-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/769f8bc1-1d2d-47c3-947d-381093f59933-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/780c19fe-d53c-4b4e-a9a4-9de1efb7c6ff-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/78264e0d-730b-4b64-ab6c-9e932dcff98f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/78957cae-7ea4-4d65-aab5-d65df155a399-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/79a655a6-07fd-4e63-8788-46dbaf010447-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7b2726e1-be8c-4dc6-a2b6-bd5d56e27eb5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7b51d8b0-bb48-47ed-aee3-bee103816501-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7b91dcd2-b104-4c73-9cd3-8bf8a13e9945-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7b928528-9508-418f-b32c-ced443f788d8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7ce93147-0716-4cac-a365-ea229567eb31-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7d476a76-36fc-4cc1-be99-58a4dd5caee9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7db9913b-1649-4b57-9e56-6e1a2bebd589-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7e16428e-e480-42da-ad9f-304e1777a69f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7e6b5f17-6049-4243-b378-e6fd5cfe0054-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7f4865a5-88ad-49b8-a79b-5929341c87ce-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7fd5350f-3bc6-47e6-a6d5-2e5b6b6a2588-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/800dcb2b-d4bb-4013-89e5-a7d8b0a2df4e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/805d8902-c310-40b3-93ad-1ef1ed8ff194-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/81356cc0-4317-497a-8a0b-e2dca2fde21a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8336a6da-a0cc-45c5-98a3-202533bf15cf-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/837353fa-6036-4979-aaf9-537bcbfd1f03-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/83e6fcf6-d6d9-4f1d-a010-32df7158a57b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8457086f-39cb-44db-9d49-44ec72f9c18b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/88976798-5959-4b93-bb1c-88592f27e80a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/89f6da92-8ea5-4abf-96ab-953898f857e9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8ad393a6-dec9-4633-8593-69ed50f99287-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8c44063d-51fb-42c2-8576-f20f549f13aa-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/901390c2-e5ce-471e-ad19-519880dab31b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/91923a24-0be7-4936-b7d4-aa08468c7b4c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/91aa903d-462c-4fa2-beeb-717b0b8a1ab0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/91dccc38-57db-4498-a4a7-5b8e39496e41-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9398e520-c542-40a0-9fbc-a923f25c645a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/93aa3a54-ff32-4765-9a50-4f4f7191d44c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/93d767c1-f8fa-4a07-815a-d4c418965e1c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/95c5d50d-91eb-4e54-a0ee-b12fd1d23b68-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/96a1e5f9-9d00-4450-8b9d-d143ecf885a3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9ab89fe0-9b2d-4fbc-9c49-e65831cf6b60-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9b7af90d-14e3-4502-b641-7cde450ae683-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9bd1be3a-fcee-4a2a-92f8-3169f8ca31de-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9cc1d71a-fedb-4355-911a-e6a8dbc0bb76-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9cc503fd-4741-490c-8af9-eb87b0de7d5d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9d50f5fe-17d4-4a0b-88b7-c79662c3768d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9f8d05fd-88da-4468-b14e-4a42e4d43680-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9fa8be30-577d-4fcb-84e5-db4001ba22a1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a0a53a94-4937-4a47-8128-fb32d45fbafb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a3602e5f-ca86-4347-b894-5b93214d14b3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a4533ead-e4ca-4be5-bb18-46a697e95a45-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a4a7827a-01d6-4dcf-a794-69c9adb7da15-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a511dfdb-fb0e-48dd-9371-67fdd7af00d0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a540c46a-2366-46fb-9b31-8773ea9505a1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a7c3703b-6898-4dfa-9622-d2a7e7b19c7a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a90e54ff-8ee4-48a2-90f3-69c274783b6c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/aa4b4bd6-b777-4641-814f-1809c6db13d0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/aad9aa7b-2981-4fd1-866a-06c487e85b8b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ab7ea3f4-c4c6-4294-b53a-e550a33e6d21-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/abe16912-8408-43d6-8b5b-6b9918e47ceb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ac7806cb-489e-4550-83d9-1ac94f358423-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ac8dac9a-206c-4ab3-aed7-bbd0712ba298-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/af69cd38-ab4f-4f7b-b2f6-7397f80adefc-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/allure.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b08566c7-7de3-40a2-8d1e-cd16fbcea522-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b0d250ca-5581-4181-b97b-a3f12911fd90-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b3aee80a-16be-4d80-8edc-55ad0194f381-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b4f85932-b9cb-4bdd-8baa-7e9e0c020b9a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b64d3ffb-4679-4a2e-afee-3ed348b352c1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b7f4b032-8e8a-46f1-b65a-eaf6500b92be-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b84dfbb2-fcb0-4a0b-9ab8-fb522d34f05d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b9477cd0-cc2a-4cc9-aa7e-582bd142b4f4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b951c050-a8e1-41f3-9f22-a9d125c6ee79-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b95f7c85-6a49-4984-a091-f480808f73ac-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/baa08e7c-6d2d-4d04-927c-95054f99a8f7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bb04a0bf-104f-480d-b0bc-9eee12101fdc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bc4dd835-be5c-4d38-aeab-32e74a51e181-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bc9e13a9-f481-417f-9849-a0b3bd1e472c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/be2397e7-ae4a-436d-b180-e73109a38727-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bed01dbf-31eb-4e60-b2d2-19b2dc89dd7e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c1cc47e5-e90b-47c5-ab61-416e0b9cc7a5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c2064d07-ff57-4999-975f-2c406a13dac0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c405164d-1233-4681-9a63-3cc408f17f74-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c4a999d7-4dbb-4ec1-92ee-9bc107ba6631-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c54ef597-ab75-4660-9dd5-4bdaf9f0833d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c5864976-9d69-4860-9cef-f1dca83735ac-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c5b0a1aa-e3f5-4ecd-ba97-9556616f1a7b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c63bde36-2def-420b-a7e8-696b4eace02b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c75801d2-e432-4951-b16b-86c14361596f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c813c70c-4881-4084-bbc7-2bdfd0be0f28-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c9202153-d516-4071-baae-4e29cc8fdf67-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ca633f8a-5ecf-438e-af55-d6db95463bc3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cb8d1444-5010-435b-9802-e5a7d5cc6668-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cc461bff-105b-4c7a-91d6-74f2e78e45a5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cde97147-65f3-4793-be65-f2967a2a31e4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ce661c17-a959-4f1b-add3-88ebd3434294-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d0e4961d-0c27-45dd-bef7-4e162503e417-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d10c527c-5c4b-43b7-a398-3111c2a6c5c3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d22f0cfb-2d77-4572-a878-29632841d359-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d34e458c-21f7-44e9-96a7-f47ba65eb412-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d3d0d6ea-c01f-47c9-992d-2608e1eb38a4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d47e00eb-2d1f-4403-8639-0d59e68a791e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d4ddb019-a8b9-4cd1-947a-187bd4c8f2f8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d62df49f-5c1b-4782-b915-5f026e2489ca-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d66f1d9d-aa01-497a-9421-93ed2c025b7b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d746f26a-e390-4c48-b943-22b9a4ee67b1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d74cc004-57e6-4bf9-b4d4-5836faa0c2cc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d7c24ca2-0559-4a45-916d-0c0ba736cee3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/da35a60b-8cf0-4b2f-a96b-060966a8d841-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/dae4b24f-9333-49fa-a7a8-95a4859175b6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/db2fe0bd-eef3-420b-ba88-d8ef7b08c737-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/db4a01e1-861b-4517-a4c7-0cdc157d4624-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/db58c20c-1cf1-406f-9f07-b618deb5a4be-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/dba67fef-7c94-4997-8edd-abf02ebfd56f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/dbabda7f-0f31-476a-b841-0f92cb4b0926-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/dd2f575d-e243-4935-bd90-fe52c965bf8a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/dea76767-e314-4afc-9239-32dcfe5d2ff7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/df93b571-4170-4f64-ae1d-80f44c539828-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/dfcf59ad-2bd1-493c-81e8-0450a61b11c1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e0153afd-96c7-4b92-81ba-7e5b4de33c2f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e0a55b2c-4196-483e-9134-162676141b84-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e0ffb34b-c9d3-46b1-86c4-b4d2fe2b983d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e13fd44c-84c0-4a4f-a8c0-51d83b7b799f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e1626308-5bff-4a90-993a-b7e7fb8ee1cc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e2c7ba54-bc19-40d7-88f5-9f59b7b13dea-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e2e004e8-8dd9-4999-b8d3-a9f864575879-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e3b52bd2-8c76-4212-ab79-fc35380101d2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e42cc4a2-8ea7-4848-bfef-aef9f13f6dc2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e43d2f69-5693-44d4-b5e7-09f133794c01-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e5b15386-4248-4d4e-998f-1392e81d9673-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e60f60b5-a4a5-480b-8721-263d41ef8a77-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e6b7f30c-c52b-4204-be16-a6d7ab73c411-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e74f0b68-9efd-4341-842e-bb3ca2d81bea-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e7566883-c216-4512-89cd-0d165da73d55-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e8136eb7-97a2-4d1b-aabe-e5fa60156c44-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e84d2afc-29b0-46b3-ba91-de31f5d2a4d5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e8cfd82f-e4d1-41e6-b198-7172de78de41-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e92023b7-b76b-43ab-a49e-7c4920414968-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e92ee3cb-2fc2-4746-b961-820ada84b571-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e9416d46-2ab9-4cd4-9d6f-c2cf8a084f94-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ea1b0dec-c666-467d-9b43-63d044521c27-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/eb6af82f-a5a6-415f-810d-09e9b5d764da-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/executor.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f00774dd-df1a-4cc9-b441-ec90c0a18f5d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f0adae41-ff3e-48aa-82dc-0ea5cba97e9f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f0cfd6bf-4a68-4166-8e9f-a670ec27b282-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f151acd5-36f6-4bd8-86db-6aac68236a36-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f248e51c-a8e2-4745-b879-cbd026a4d9a0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f2e1d902-2d27-4197-8960-c668337e091f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f3300e1a-e98b-476f-af78-dacd338b91d0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f3d321b8-da6b-4046-8fba-601d1eb5225b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f44a0fba-c2b5-44d4-a341-61294735b1d6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f5000e7a-3550-4474-b490-985f5e79a9b0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f7252fd9-7208-4dea-b3c7-a55c144bd330-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f824e621-35b2-42b3-abf5-9aa6f6bfb35f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fa8a2513-f0ca-4359-b3fd-da1072f13c98-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/faa30f40-6b57-48ca-9828-fb2c52561cb5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fc634bf7-c5f5-41f6-9b8f-a8178f372640-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ff82c6ee-0ac0-4542-8858-e5479e92b422-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Utils/SauceUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/main/CucumberRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/main/SauceTestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/main/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/main/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/main/pageObjects/CMSLoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/main/pageObjects/DeliveryDetailsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/main/pageObjects/FavouritesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/main/pageObjects/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/main/pageObjects/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/main/pageObjects/MyAccountDetailsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/main/pageObjects/PaymentPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/main/pageObjects/ProductDetailsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/main/stepdefinition/Helper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/main/stepdefinition/LoginSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/main/stepdefinition/PlaceOrderSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/config/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/features/Checkout.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/features/Login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/allure.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-reports/CucumberTestReport.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-reports/cucumber-pretty/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-reports/rerun.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Testng Cucumber Suite/ChromeTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Testng Cucumber Suite/ChromeTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Testng Cucumber Suite/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/jquery-1.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-main.TestRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Testng Cucumber Suite/ChromeTest.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Testng Cucumber Suite/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Testng Cucumber Suite/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Testng Cucumber Suite/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Testng Cucumber Suite/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Testng Cucumber Suite/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Testng Cucumber Suite/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Testng Cucumber Suite/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Testng Cucumber Suite/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Testng Cucumber Suite/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Testng Cucumber Suite/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/allure.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Kiran_Java$CucumberRunner.coverage" NAME="CucumberRunner Coverage Results" MODIFIED="1520950014194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>main.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Kiran_Java$_Users_kiranmaid_Documents_automation_Kiran_Java_testng_xml.coverage" NAME="$PROJECT_DIR$/testng.xml Coverage Results" MODIFIED="1538645234119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="2" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1318749800">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.3" value="4" />
+          <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gitignore" value="1" />
+          <entry key="java" value="10" />
+          <entry key="properties" value="1" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="10" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="gitignore" value="25" />
+          <entry key="java" value="323" />
+          <entry key="properties" value="8" />
+          <entry key="xml" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="323" />
+          <entry key="PLAIN_TEXT" value="25" />
+          <entry key="Properties" value="8" />
+          <entry key="XML" value="19" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/main/CucumberRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="35" column="72" selection-start-line="35" selection-start-column="72" selection-end-line="35" selection-end-column="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="496">
+              <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/main/TestRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="43" column="33" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testng.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/main/stepdefinition/LoginSteps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="928">
+              <caret line="67" column="39" selection-start-line="67" selection-start-column="39" selection-end-line="67" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/allure.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="32" selection-start-column="32" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/main/pageObjects/CMSLoginPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="28" column="65" selection-start-line="28" selection-start-column="65" selection-end-line="28" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/main/pageObjects/DeliveryDetailsPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/main/pageObjects/FavouritesPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="28" column="43" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>AbstractTestNGCucumberTests</find>
+      <find>gc-header-myaccount__link.gc-header-myaccount__link--inline</find>
+      <find>allure-testng</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/FirstTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/main/stepdefinition/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/main/pages/MyAccountDetailsPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/main/pages/LoginPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/main/pages/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/resources/features/config/config.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/resources/utils/ExtentManager.java" />
+        <option value="$PROJECT_DIR$/src/test/java/resources/utils/extentReports/ExtentTestManager.java" />
+        <option value="$PROJECT_DIR$/src/test/java/resources/utils/extentReports/ExtentManager.java" />
+        <option value="$PROJECT_DIR$/src/test/java/resources/utils/listeners/TestListener.java" />
+        <option value="$PROJECT_DIR$/src/test/java/resources/config/extent-config.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/main/TestNGRunnr.java" />
+        <option value="$PROJECT_DIR$/src/test/java/main/PickleEventWrapper.java" />
+        <option value="$PROJECT_DIR$/src/test/java/main/stepdefinition/BrowserHooks.java" />
+        <option value="$PROJECT_DIR$/src/test/java/main/stepdefinition/BasePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/main/pageObjects/ProductDetailsPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/main/pageObjects/PaymentPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/main/pageObjects/DeliveryDetailsPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/main/stepdefinition/Hooks.java" />
+        <option value="$PROJECT_DIR$/src/test/java/main/SauceTestBase.java" />
+        <option value="$PROJECT_DIR$/src/test/java/main/helper/BrowserDataProvider.java" />
+        <option value="$PROJECT_DIR$/src/test/java/main/pageObjects/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/resources/features/Checkout.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/main/SauceTestRunner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Utils/SauceUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testclass.java" />
+        <option value="$PROJECT_DIR$/src/test/java/main/pageObjects/CMSLoginPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/main/pageObjects/MyAccountDetailsPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/main/pageObjects/FavouritesPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/resources/features/Login.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/main/TestRunner.java" />
+        <option value="$PROJECT_DIR$/src/test/java/main/pageObjects/LoginPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/main/stepdefinition/Helper.java" />
+        <option value="$PROJECT_DIR$/src/test/java/resources/allure.properties" />
+        <option value="$PROJECT_DIR$/src/test/resources/allure.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/resources/config/config.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/main/CucumberRunner.java" />
+        <option value="$PROJECT_DIR$/src/test/java/main/Test.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/testng.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/main/stepdefinition/LoginSteps.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Kiran_Java" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="environmentProperties">
+      <map>
+        <entry key="testEnv" value="crawling-octopus" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="82" />
+    <option name="y" value="23" />
+    <option name="width" value="1743" />
+    <option name="height" value="1177" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Kiran_Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kiran_Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kiran_Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kiran_Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kiran_Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kiran_Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kiran_Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kiran_Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kiran_Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kiran_Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kiran_Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kiran_Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kiran_Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kiran_Java" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kiran_Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kiran_Java" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="testngcucu&#9;PSI&#9;JAVA://cucumber.api.testng.TestNGCucumberRunner" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545038448802" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last.edited.regexp" value="Sample Text" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/resources/features" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Test" />
+      <module name="Kiran_Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testclass" />
+      <module name="Kiran_Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="allure-maven.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Kiran_Java/target/site/allure-maven-plugin/allure-maven.html">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CucumberRunner" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Kiran_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="main" />
+      <option name="MAIN_CLASS_NAME" value="main.CucumberRunner" />
+      <option name="GROUP_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/kiranmaid/Documents/automation/Kiran_Java/testng.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Kiran_Java" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.CucumberRunner" />
+      <item itemvalue="TestNG./Users/kiranmaid/Documents/automation/Kiran_Java/testng.xml" />
+      <item itemvalue="Application.testclass" />
+      <item itemvalue="JavaScript Debug.allure-maven.html" />
+      <item itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="JavaScript Debug.allure-maven.html" />
+        <item itemvalue="TestNG./Users/kiranmaid/Documents/automation/Kiran_Java/testng.xml" />
+        <item itemvalue="TestNG.CucumberRunner" />
+        <item itemvalue="Application.testclass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf85d7f8-d422-4e12-a0df-2f7b11934739" name="Default" comment="" />
+      <created>1509617707068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1509617707068</updated>
+      <workItem from="1509617710511" duration="3339000" />
+      <workItem from="1509622122414" duration="97000" />
+      <workItem from="1509622240447" duration="9793000" />
+      <workItem from="1509707901441" duration="3560000" />
+      <workItem from="1509732349920" duration="482000" />
+      <workItem from="1509732846594" duration="55876000" />
+      <workItem from="1510823292567" duration="400000" />
+      <workItem from="1510826795773" duration="44000" />
+      <workItem from="1511429863450" duration="3000" />
+      <workItem from="1511431275904" duration="2156000" />
+      <workItem from="1511444367570" duration="14681000" />
+      <workItem from="1512215874975" duration="762000" />
+      <workItem from="1513090549492" duration="1689000" />
+      <workItem from="1513513839578" duration="14507000" />
+      <workItem from="1516195191800" duration="4314000" />
+      <workItem from="1519314790882" duration="2451000" />
+      <workItem from="1519722407773" duration="1696000" />
+      <workItem from="1519897608146" duration="959000" />
+      <workItem from="1520329518516" duration="11045000" />
+      <workItem from="1520582679335" duration="42993000" />
+      <workItem from="1521225681110" duration="16025000" />
+      <workItem from="1523351133282" duration="17852000" />
+      <workItem from="1524752868822" duration="721000" />
+      <workItem from="1526895588755" duration="779000" />
+      <workItem from="1531731177924" duration="39858000" />
+      <workItem from="1533816048703" duration="6576000" />
+      <workItem from="1534938347461" duration="30252000" />
+      <workItem from="1537185650296" duration="5073000" />
+      <workItem from="1537812670424" duration="309000" />
+      <workItem from="1538557401193" duration="23874000" />
+      <workItem from="1539700340038" duration="4455000" />
+      <workItem from="1540204546881" duration="10463000" />
+      <workItem from="1540544036495" duration="581000" />
+      <workItem from="1540826707685" duration="128000" />
+      <workItem from="1540889843779" duration="281000" />
+      <workItem from="1542642638034" duration="3715000" />
+      <workItem from="1542745894068" duration="1222000" />
+      <workItem from="1544008955768" duration="455000" />
+      <workItem from="1544606091152" duration="1206000" />
+      <workItem from="1545038344809" duration="97000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="_Users_kiranmaid_Documents_automation_Kiran_Java_testng_xml - 2018.04.10 at 12h 04m 36s.xml">
+      <configuration name="/Users/kiranmaid/Documents/automation/Kiran_Java/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_kiranmaid_Documents_automation_Kiran_Java_testng_xml - 2018.04.26 at 15h 35m 48s.xml">
+      <configuration name="/Users/kiranmaid/Documents/automation/Kiran_Java/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_kiranmaid_Documents_automation_Kiran_Java_testng_xml - 2018.07.16 at 09h 57m 27s.xml">
+      <configuration name="/Users/kiranmaid/Documents/automation/Kiran_Java/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_kiranmaid_Documents_automation_Kiran_Java_testng_xml - 2018.09.03 at 10h 23m 59s.xml">
+      <configuration name="/Users/kiranmaid/Documents/automation/Kiran_Java/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_kiranmaid_Documents_automation_Kiran_Java_testng_xml - 2018.09.03 at 10h 31m 37s.xml">
+      <configuration name="/Users/kiranmaid/Documents/automation/Kiran_Java/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_kiranmaid_Documents_automation_Kiran_Java_testng_xml - 2018.09.03 at 11h 14m 46s.xml">
+      <configuration name="/Users/kiranmaid/Documents/automation/Kiran_Java/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_kiranmaid_Documents_automation_Kiran_Java_testng_xml - 2018.09.03 at 11h 15m 47s.xml">
+      <configuration name="/Users/kiranmaid/Documents/automation/Kiran_Java/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_kiranmaid_Documents_automation_Kiran_Java_testng_xml - 2018.09.10 at 16h 01m 18s.xml">
+      <configuration name="/Users/kiranmaid/Documents/automation/Kiran_Java/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_kiranmaid_Documents_automation_Kiran_Java_testng_xml - 2018.10.04 at 10h 28m 58s.xml">
+      <configuration name="/Users/kiranmaid/Documents/automation/Kiran_Java/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_kiranmaid_Documents_automation_Kiran_Java_testng_xml - 2018.10.09 at 11h 59m 57s.xml">
+      <configuration name="/Users/kiranmaid/Documents/automation/Kiran_Java/testng.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="334769000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="82" y="23" width="1743" height="1177" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31158143" />
+      <window_info id="Structure" order="1" weight="0.24970622" />
+      <window_info id="Nl-Palette" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32910156" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3281106" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40820312" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32903227" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3281106" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24985303" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" sideWeight="0.494302" weight="0.32921812" />
+      <window_info anchor="right" id="Properties" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.329806" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.505698" side_tool="true" weight="0.32961223" />
+      <window_info anchor="right" id="Palette&#9;" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.2/testng-6.14.2.jar!/org/testng/TestRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="388" selection-start-line="388" selection-end-line="388" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.2/testng-6.14.2.jar!/org/testng/SuiteRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="327" selection-start-line="327" selection-end-line="327" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.2/testng-6.14.2.jar!/org/testng/SuiteRunnerWorker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.2/testng-6.14.2.jar!/org/testng/TestNG.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="915" selection-start-line="915" selection-end-line="915" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/main/helper/BrowserDataProvider.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-testng/2.4.0/cucumber-testng-2.4.0.jar!/cucumber/api/testng/TestCaseResultListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-200">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-core/2.4.0/cucumber-core-2.4.0.jar!/cucumber/runtime/Glue.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-core/2.4.0/cucumber-core-2.4.0.jar!/cucumber/runtime/HookDefinition.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-testng/2.4.0/cucumber-testng-2.4.0.jar!/cucumber/api/testng/AbstractTestNGCucumberTests.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/resources/features/Checkout.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Utils/SauceUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="1335" selection-start-line="1335" selection-end-line="1335" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="3666" selection-start-line="3666" selection-end-line="3666" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/testclass.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5681">
+          <caret line="1932" selection-start-line="1932" selection-end-line="1932" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-core/2.4.0/cucumber-core-2.4.0.jar!/cucumber/runtime/Utils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-core/2.4.0/cucumber-core-2.4.0.jar!/cucumber/runtime/StepDefinitionMatch.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-core/2.4.0/cucumber-core-2.4.0.jar!/cucumber/api/TestStep.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="458" selection-start-line="458" selection-end-line="458" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-core/2.4.0/cucumber-core-2.4.0.jar!/cucumber/runtime/ScenarioImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-core/2.4.0/cucumber-core-2.4.0.jar!/cucumber/api/TestCase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="41" column="35" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-core/2.4.0/cucumber-core-2.4.0.jar!/cucumber/runner/Runner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-testng/2.4.0/cucumber-testng-2.4.0.jar!/cucumber/api/testng/TestNGCucumberRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/Invoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="484" column="5" selection-start-line="484" selection-start-column="5" selection-end-line="484" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.14.0/selenium-support-3.14.0.jar!/org/openqa/selenium/support/pagefactory/DefaultElementLocator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.14.0/selenium-support-3.14.0.jar!/org/openqa/selenium/support/pagefactory/internal/LocatingElementHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="37" column="55" selection-start-line="37" selection-start-column="55" selection-end-line="37" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-testng/3.0.2/cucumber-testng-3.0.2.jar!/cucumber/api/testng/AbstractTestNGCucumberTests.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kiran_Java.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-781" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/resources/features/Login.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/main/pageObjects/ProductDetailsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/main/pageObjects/PaymentPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/main/pageObjects/MyAccountDetailsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/resources/allure.properties" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/main/stepdefinition/Helper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="29" column="57" selection-start-line="29" selection-start-column="57" selection-end-line="29" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/main/stepdefinition/PlaceOrderSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/main/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/main/SauceTestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/resources/config/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/main/pageObjects/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/main/pageObjects/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="37" column="49" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/main/TestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="43" column="33" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/main/stepdefinition/LoginSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="928">
+          <caret line="67" column="39" selection-start-line="67" selection-start-column="39" selection-end-line="67" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/allure.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" selection-start-column="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/main/pageObjects/CMSLoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="28" column="65" selection-start-line="28" selection-start-column="65" selection-end-line="28" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/main/pageObjects/DeliveryDetailsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/main/pageObjects/FavouritesPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="28" column="43" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/main/CucumberRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="35" column="72" selection-start-line="35" selection-start-column="72" selection-end-line="35" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>actioncable (v5.0.2, RVM: ruby-2.3.3) [gem]</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Kiran_Java</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>RVM: ruby-2.3.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.beust:jcommander:1.72</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

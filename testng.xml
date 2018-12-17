@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Testng Cucumber Suite" parallel="none">
+    <test name="ChromeTest">
+        <parameter name="browser" value="Chrome" />
+        <classes>
+            <class name="main.TestRunner"></class>
+            <!-- <class name="main.AnotherRunner"></class> This class could be used to run multiple runner classes-->
+        </classes>
+    </test>
+    <!--<test name="FirefoxTest">
+        <parameter name="browser" value="Firefox" />
+        <classes>
+            <class name="main.TestRunner"></class>
+            &lt;!&ndash; <class name="main.AnotherRunner"></class> This class could be used to run multiple runner classes&ndash;&gt;
+        </classes>
+    </test>-->
+   <!-- <test name="SafariTest">
+        <parameter name="browser" value="Safari" />
+        <classes>
+            <class name="main.CucumberRunner"></class>
+            &lt;!&ndash; <class name="main.AnotherRunner"></class> This class could be used to run multiple runner classes&ndash;&gt;
+        </classes>
+    </test>-->
+</suite> <!-- Suite -->
+
